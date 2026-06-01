@@ -1,0 +1,982 @@
+{
+"gpu":[
+
+  {
+    "id": 1,
+    "img": "Img/gpu/rtx4070 eagle.jpg",
+    "h5": "Gigabyte GeForce RTX 4070 SUPER EAGLE OC 12G GV-N407SEAGLE OC-12GD",
+    "price": "₪ 6,149",
+    "name": "rtx4070",
+    "brand": "Gigabyte GeForce",
+    "type": "Grahpic Card",
+    "for": "Gaming"
+
+
+  },
+
+  {
+    "id": 2,
+    "img": "Img/gpu/rtx5090 32g.jpg",
+    "h5": "Gigabyte GeForce RTX 5090 WINDFORCE OC 32G GV-N5090WF3OC-32GD",
+    "price": "₪ 12,048",
+    "name": "rtx5090",
+    "brand": "Gigabyte GeForce",
+    "type": "Grahpic Card",
+    "for": "Gaming"
+
+  },
+
+  {
+    "id": 3,
+    "img": "Img/gpu/RX 9060.jpg",
+    "h5": "PowerColor Hellhound RX 9060 XT 16GB GDDR6",
+    "price": "₪ 2,047",
+    "name": "RX 9060",
+    "brand": "PowerColor",
+    "type": "Grahpic Card",
+    "for": "Gaming"
+
+  },
+    
+  {
+    "id": 4,
+    "img": "Img/gpu/RX 7600XT.jpg",
+    "h5": "Gigabyte RX 7600 XT GV-R76XTGAMING OC-16GD",
+    "price": "₪ 1,745",
+    "name": "RX 7600XT",
+    "brand": "Gigabyte GeForce",
+    "type": "Grahpic Card",
+    "for": "Gaming"
+
+  },
+    
+  {
+    "id": 5,
+    "img": "Img/gpu/rtx 5070 aurous.jpg",
+    "h5": "Gigabyte GeForce RTX 5090 WINDFORCE OC 32G GV-N5090WF3OC-32GD",
+    "price": "₪ 12,048",
+    "name": "rtx5090",
+    "brand": "Gigabyte GeForce",
+    "type": "Grahpic Card",
+    "for": "Gaming"
+
+  },
+    
+  {
+    "id": 6,
+    "img": "Img/gpu/RX 9070XT.jpg",
+    "h5": "Gigabyte GeForce RTX 5090 WINDFORCE OC 32G GV-N5090WF3OC-32GD",
+    "price": "₪ 12,048",
+    "name": "rtx5090",
+    "brand": "Gigabyte GeForce",
+    "type": "Grahpic Card",
+    "for": "Gaming"
+
+  },
+    
+  {
+    "id": 7,
+    "img": "Img/gpu/asus rtx 4070 super.jpg",
+    "h5": "Gigabyte GeForce RTX 5090 WINDFORCE OC 32G GV-N5090WF3OC-32GD",
+    "price": "₪ 12,048",
+    "name": "rtx5090",
+    "brand": "Gigabyte GeForce",
+    "type": "Grahpic Card",
+    "for": "Gaming"
+
+  },
+    
+  {
+    "id": 8,
+    "img": "Img/gpu/asus rtx 4060.jpg",
+    "h5": "Gigabyte GeForce RTX 5090 WINDFORCE OC 32G GV-N5090WF3OC-32GD",
+    "price": "₪ 12,048",
+    "name": "rtx5090",
+    "brand": "Gigabyte GeForce",
+    "type": "Grahpic Card",
+    "for": "Gaming"
+
+  }
+],
+
+"cpu":[
+  {
+    "id": 1,
+    "img": "Img/cpu/ultra 9  285k.jpg",
+    "h5": "Intel Core Ultra 9 285K 36MB Cache LGA1851 - Box",
+    "price": "₪ 2,700",
+    "name": "ultra 9 285k",
+    "brand": "Intel",
+    "type": "Cpu",
+    "for": "Prosecor"
+
+
+  },
+
+  {
+    "id": 2,
+    "img": "Img/cpu/Ryzen9_9950x3d.jpg",
+    "h5": "AMD Ryzen™ 9 9950X3D - Box",
+    "price": "₪ 3,323",
+    "name": "Ryzen9_9950x3d",
+    "brand": "AMD",
+    "type": "Cpu",
+    "for": "Prosecor"
+
+
+  },
+
+  {
+    "id": 3,
+    "img": "Img/cpu/Ryzen7_9800x3d.jpg",
+    "h5": "AMD Ryzen 7 9800X3D 4.7GHz AM5 - Box",
+    "price": "₪ 2,294",
+    "name": "Ryzen7_9800x3d",
+    "brand": "AMD",
+    "type": "Cpu",
+    "for": "Prosecor"
+
+  },
+    
+  {
+    "id": 4,
+    "img": "Img/cpu/Ryzen7_7800x3d-tray.jpg",
+    "h5": "AMD Ryzen 7 7800X3D 4.2GHz AM5 - Tray",
+    "price": "₪ 1,725",
+    "name": "Ryzen7_7800x3d",
+    "brand": "AMD",
+    "type": "Cpu",
+    "for": "Prosecor"
+
+  },
+    
+  {
+    "id": 5,
+    "img": "Img/cpu/Ryzen7_7800x3d.jpg",
+    "h5": "AMD Ryzen 7 7800X3D 4.2GHz AM5 - Box",
+    "price": "₪ 1,825",
+    "name": "Ryzen7_7800x3d",
+    "brand": "AMD",
+    "type": "Cpu",
+    "for": "Prosecor"
+
+  },
+    
+  {
+    "id": 6,
+    "img": "Img/cpu/Ryzen7_5700x3d.jpg",
+    "h5": "AMD Ryzen 7 5700X3D 3.0GHz AM4 - Box",
+    "price": "₪ 1,139",
+    "name": "Ryzen7_5700x3d",
+    "brand": "AMD",
+    "type": "Cpu",
+    "for": "Prosecor"
+
+  },
+    
+  {
+    "id": 7,
+    "img": "Img/cpu/Ryzen5_5600GT.jpg",
+    "h5": "AMD Ryzen 5 5600GT 3.6GHz AM4 - Box",
+    "price": "₪ 549",
+    "name": "Ryzen5_5600GT",
+    "brand": "AMD",
+    "type": "Cpu",
+    "for": "Prosecor"
+  },
+    
+  {
+    "id": 8,
+    "img": "Img/cpu/i9 14900ks.jpg",
+    "h5": "Intel Core i9 14900KS 3.2GHz 36MB Cache s1700 - Box",
+    "price": "₪ 3,030",
+    "name": "i9 14900ks",
+    "brand": "Intel",
+    "type": "Cpu",
+    "for": "Prosecor"
+
+  }
+
+
+
+
+],
+
+"mboard": [
+  {
+    "id": 1,
+    "img": "Img/motherboards/ASUS GAMING B650.jpg",
+    "h5": "ASUS ROG Strix B760-I Gaming WiFi Intel LGA1700 B760 DDR5",
+    "price": "₪ 1,045",
+    "name": "ROG_Strix_B760I",
+    "brand": "ASUS",
+    "type": "Motherboard",
+    "for": "Gaming"
+  },
+  {
+    "id": 2,
+    "img": "Img/motherboards/Asus ROG B760.jpg",
+    "h5": "GIGABYTE B760M GAMING X DDR4 LGA1700",
+    "price": "₪ 605",
+    "name": "B760M_Gaming_X_DDR4",
+    "brand": "Gigabyte",
+    "type": "Motherboard",
+    "for": "Gaming"
+  },
+  {
+    "id": 3,
+    "img": "Img/motherboards/ASUS X870.jpg",
+    "h5": "MSI B650M-B AMD AM5 B650 DDR5",
+    "price": "₪ 499",
+    "name": "B650M-B",
+    "brand": "MSI",
+    "type": "Motherboard",
+    "for": "Gaming"
+  },
+  {
+    "id": 4,
+    "img": "Img/motherboards/ASUS Z890.jpg",
+    "h5": "MSI B650M GAMING PLUS WiFi AM5 DDR5",
+    "price": "₪ 760",
+    "name": "B650M_Gaming_Plus_WiFi",
+    "brand": "MSI",
+    "type": "Motherboard",
+    "for": "Gaming"
+  },
+  {
+    "id": 5,
+    "img": "Img/motherboards/GIGABYTE B760.jpg",
+    "h5": "Asus TUF Gaming B650-E WiFi AM5 DDR5",
+    "price": "₪ 949",
+    "name": "TUF_Gaming_B650E_WiFi",
+    "brand": "ASUS",
+    "type": "Motherboard",
+    "for": "Gaming"
+  },
+  {
+    "id": 6,
+    "img": "Img/motherboards/GIGABYTE X870E.jpg",
+    "h5": "ASUS ROG STRIX X670E-F GAMING WiFi AM5 DDR5",
+    "price": "₪ 1,979",
+    "name": "ROG_Strix_X670E-F",
+    "brand": "ASUS",
+    "type": "Motherboard",
+    "for": "Gaming"
+  },
+  {
+    "id": 7,
+    "img": "Img/motherboards/MSI B650M GAMING.jpg",
+    "h5": "GIGABYTE X870E AORUS ELITE WiFi AM5 DDR5",
+    "price": "₪ 1,535",
+    "name": "X870E_Aorus_Elite_WiFi",
+    "brand": "Gigabyte",
+    "type": "Motherboard",
+    "for": "Gaming"
+  },
+  {
+    "id": 8,
+    "img": "Img/motherboards/MSI B650M.jpg",
+    "h5": "ASUS ROG MAXIMUS Z890 EXTREME LGA1851 DDR5",
+    "price": "₪ 6,485",
+    "name": "ROG_Maximus_Z890_Extreme",
+    "brand": "ASUS",
+    "type": "Motherboard",
+    "for": "Gaming"
+  }
+],
+
+"power-supplay": [
+  {
+    "id": 1,
+    "img": "Img/power-supplies/asus tuf 850w.jpg",
+    "h5": "Asus TUF 850W Modular Gold PSU TUF-GAMING-850G",
+    "price": "₪ 749",
+    "name": "TUF_850W",
+    "brand": "ASUS",
+    "type": "Power Supply",
+    "for": "Gaming"
+  },
+  {
+    "id": 2,
+    "img": "Img/power-supplies/asus tuf 1200w.jpg",
+    "h5": "Asus TUF 1200W Modular Gold PSU TUF-GAMING-1200G",
+    "price": "₪ 1,109",
+    "name": "TUF_1200W",
+    "brand": "ASUS",
+    "type": "Power Supply",
+    "for": "Gaming"
+  },
+  {
+    "id": 3,
+    "img": "Img/power-supplies/asus rog loki 850w.jpg",
+    "h5": "Asus ROG Loki SFX-L 850W Platinum White Edition",
+    "price": "₪ 1,129",
+    "name": "ROG_Loki_850W_Platinum_White",
+    "brand": "ASUS",
+    "type": "Power Supply",
+    "for": "Gaming"
+  },
+  {
+    "id": 4,
+    "img": "Img/power-supplies/asus rog loki 850w platinium.jpg",
+    "h5": "Asus ROG Loki SFX-L 850W Platinum",
+    "price": "₪ 1,045",
+    "name": "ROG_Loki_850W_Platinum",
+    "brand": "ASUS",
+    "type": "Power Supply",
+    "for": "Gaming"
+  },
+  {
+    "id": 5,
+    "img": "Img/power-supplies/corsair rm 100w.jpg",
+    "h5": "Corsair RM1000x 1000W Gold 14cm Fan Fully Modular ATX",
+    "price": "₪ 983",
+    "name": "RM1000x",
+    "brand": "Corsair",
+    "type": "Power Supply",
+    "for": "Gaming"
+  },
+  {
+    "id": 6,
+    "img": "Img/power-supplies/asus rog 1200w.jpg",
+    "h5": "Asus ROG STRIX 1200W Platinum",
+    "price": "₪ 1,579",
+    "name": "ROG_Strix_1200W_Platinum",
+    "brand": "ASUS",
+    "type": "Power Supply",
+    "for": "Gaming"
+  },
+  {
+    "id": 7,
+    "img": "Img/power-supplies/asus rog thor 1000w platinium.jpg",
+    "h5": "Asus ROG Thor 1000W Platinum III",
+    "price": "₪ 1,779",
+    "name": "ROG_Thor_1000W_Platinum",
+    "brand": "ASUS",
+    "type": "Power Supply",
+    "for": "Gaming"
+  },
+  {
+    "id": 8,
+    "img": "Img/power-supplies/asus prime 850w 80 plus.jpg",
+    "h5": "Asus Prime 850W 80 Plus Gold PSU PRIME AP-850G",
+    "price": "₪ 635",
+    "name": "Prime_850W_80Plus",
+    "brand": "ASUS",
+    "type": "Power Supply",
+    "for": "Gaming"
+  }
+],
+
+
+"cpu_cooling": [
+  {
+    "id": 1,
+    "img": "Img/cpu-cooling/corsair h100i.jpg",
+    "h5": "Corsair iCUE LINK H100i RGB AIO 240mm",
+    "price": "₪ 1,299",
+    "name": "corsair_h100i",
+    "brand": "Corsair",
+    "type": "Water Cooling",
+    "for": "CPU"
+  },
+  {
+    "id": 2,
+    "img": "Img/cpu-cooling/corsair titan rgb rx.jpg",
+    "h5": "Corsair iCUE LINK Titan RGB RX AIO 360mm White",
+    "price": "₪ 769",
+    "name": "corsair_titan_rgb_rx",
+    "brand": "Corsair",
+    "type": "Water Cooling",
+    "for": "CPU"
+  },
+  {
+    "id": 3,
+    "img": "Img/cpu-cooling/corsair black rgb rx aio.jpg",
+    "h5": "Corsair iCUE LINK Titan RGB RX AIO 360mm Black",
+    "price": "₪ 769",
+    "name": "corsair_black_rgb_rx_aio",
+    "brand": "Corsair",
+    "type": "Water Cooling",
+    "for": "CPU"
+  },
+  {
+    "id": 4,
+    "img": "Img/cpu-cooling/corsair rgb rx aio.jpg",
+    "h5": "Corsair iCUE LINK Titan RGB RX AIO 360mm LCD Black",
+    "price": "₪ 1,149",
+    "name": "corsair_rgb_rx_aio",
+    "brand": "Corsair",
+    "type": "Water Cooling",
+    "for": "CPU"
+  },
+  {
+    "id": 5,
+    "img": "Img/cpu-cooling/corsair nautilius 360.jpg",
+    "h5": "Corsair NAUTILUS 360 RS ARGB 360mm White",
+    "price": "₪ 549",
+    "name": "corsair_nautilius_360_white",
+    "brand": "Corsair",
+    "type": "Water Cooling",
+    "for": "CPU"
+  },
+  {
+    "id": 6,
+    "img": "Img/cpu-cooling/corsair nautilius 360 black.jpg",
+    "h5": "Corsair NAUTILUS 360 RS ARGB 360mm Black",
+    "price": "₪ 549",
+    "name": "corsair_nautilius_360_black",
+    "brand": "Corsair",
+    "type": "Water Cooling",
+    "for": "CPU"
+  },
+  {
+    "id": 7,
+    "img": "Img/cpu-cooling/asus prime 360.jpg",
+    "h5": "Asus PRIME LC 360 ARGB AIO White",
+    "price": "₪ 599",
+    "name": "asus_prime_360_white",
+    "brand": "ASUS",
+    "type": "Water Cooling",
+    "for": "CPU"
+  },
+  {
+    "id": 8,
+    "img": "Img/cpu-cooling/asus prime 360 black.jpg",
+    "h5": "Asus PRIME LC 360 ARGB AIO Black",
+    "price": "₪ 549",
+    "name": "asus_prime_360_black",
+    "brand": "ASUS",
+    "type": "Water Cooling",
+    "for": "CPU"
+  }
+],
+
+
+
+
+"office_comp": [
+  {
+    "id": 1,
+    "img": "Img/office-desktop/OD-1.jpg",
+    "h5": "Desktop Intel Core i3 14100F - GMR BEGINNER",
+    "price": "₪ 2,290",
+    "name": "i3_14100F_GMR_BEGINNER",
+    "brand": "Intel",
+    "type": "Gaming PC",
+    "for": "Gaming"
+  },
+  {
+    "id": 2,
+    "img": "Img/office-desktop/OD-2.jpg",
+    "h5": "Desktop Intel Core i5 14400 - GMR IMBA",
+    "price": "₪ 3,150",
+    "name": "i5_14400_GMR_IMBA",
+    "brand": "Intel",
+    "type": "Gaming PC",
+    "for": "Gaming"
+  },
+  {
+    "id": 3,
+    "img": "Img/office-desktop/OD-3.jpg",
+    "h5": "Desktop Intel Core i5 14400 - GMR VALKYRIE",
+    "price": "₪ 3,730",
+    "name": "i5_14400_GMR_VALKYRIE",
+    "brand": "Intel",
+    "type": "Gaming PC",
+    "for": "Gaming"
+  },
+  {
+    "id": 4,
+    "img": "Img/office-desktop/OD-4.jpg",
+    "h5": "Desktop Intel Core i5 14400 - GMR VALUE",
+    "price": "₪ 2,390",
+    "name": "i5_14400_GMR_VALUE",
+    "brand": "Intel",
+    "type": "Gaming PC",
+    "for": "Gaming"
+  },
+  {
+    "id": 5,
+    "img": "Img/office-desktop/OD-5.jpg",
+    "h5": "Desktop Intel Core i3 14100F - GMR CASUAL",
+    "price": "₪ 1,960",
+    "name": "i3_14100F_GMR_CASUAL",
+    "brand": "Intel",
+    "type": "Gaming PC",
+    "for": "Gaming"
+  },
+  {
+    "id": 6,
+    "img": "Img/office-desktop/OD-6.jpg",
+    "h5": "Desktop AMD Ryzen 5 8600G - GMR IMPRESS",
+    "price": "₪ 3,790",
+    "name": "R5_8600G_GMR_IMPRESS",
+    "brand": "AMD",
+    "type": "Gaming PC",
+    "for": "Gaming"
+  },
+  {
+    "id": 7,
+    "img": "Img/office-desktop/OD-7.jpg",
+    "h5": "Desktop Intel Core i3 14100F - GMR CORE",
+    "price": "₪ 2,450",
+    "name": "i3_14100F_GMR_CORE",
+    "brand": "Intel",
+    "type": "Gaming PC",
+    "for": "Gaming"
+  },
+  {
+    "id": 8,
+    "img": "Img/office-desktop/OD-8.jpg",
+    "h5": "Desktop Intel Core i3 14100F - GMR ALPHA",
+    "price": "₪ 2,350",
+    "name": "i3_14100F_GMR_ALPHA",
+    "brand": "Intel",
+    "type": "Gaming PC",
+    "for": "Gaming"
+  }
+],
+
+
+
+
+"gaming-pc": [
+  {
+    "id": 1,
+    "img": "Img/gaming-pc/gamingpc-1.jpg",
+    "h5": "Desktop Intel Core Ultra 7 255K - GMR VIGOR 256",
+    "price": "₪ 6,800",
+    "name": "ultra7_255k_gmr_vigor",
+    "brand": "Intel",
+    "type": "Gaming PC",
+    "for": "High-End Gaming"
+  },
+  {
+    "id": 2,
+    "img": "Img/gaming-pc/gamingpc-2.jpg",
+    "h5": "Desktop AMD Ryzen 9 7950X - PRIME Series",
+    "price": "₪ 8,250",
+    "name": "r9_7950x_prime",
+    "brand": "AMD",
+    "type": "Gaming PC",
+    "for": "High-End Gaming"
+  },
+  {
+    "id": 3,
+    "img": "Img/gaming-pc/gamingpc-3.jpg",
+    "h5": "Desktop Intel Core Ultra 9 285K - GMR MASTERS 285K",
+    "price": "₪ 7,490",
+    "name": "ultra9_285k_gmr_masters",
+    "brand": "Intel",
+    "type": "Gaming PC",
+    "for": "High-End Gaming"
+  },
+  {
+    "id": 4,
+    "img": "Img/gaming-pc/gamingpc-4.jpg",
+    "h5": "Desktop Intel Core Ultra 7 285K - GMR BATTLESTATION",
+    "price": "₪ 8,150",
+    "name": "ultra7_285k_gmr_battlestation",
+    "brand": "Intel",
+    "type": "Gaming PC",
+    "for": "High-End Gaming"
+  },
+  {
+    "id": 5,
+    "img": "Img/gaming-pc/gamingpc-5.jpg",
+    "h5": "Desktop Intel Core Ultra 7 265K - GMR CADET",
+    "price": "₪ 6,150",
+    "name": "ultra7_265k_gmr_cadet",
+    "brand": "Intel",
+    "type": "Gaming PC",
+    "for": "High-End Gaming"
+  },
+  {
+    "id": 6,
+    "img": "Img/gaming-pc/gamingpc-6.jpg",
+    "h5": "Desktop AMD Ryzen 7 9800X - GMR UNREAL",
+    "price": "₪ 8,050",
+    "name": "r7_9800x_gmr_unreal",
+    "brand": "AMD",
+    "type": "Gaming PC",
+    "for": "High-End Gaming"
+  },
+  {
+    "id": 7,
+    "img": "Img/gaming-pc/gamingpc-7.jpg",
+    "h5": "Lenovo Legion T5 - 13th Gen Intel Core i7 / RTX 4070 Ti",
+    "price": "₪ 8,150",
+    "name": "lenovo_legion_t5_i7_4070ti",
+    "brand": "Lenovo",
+    "type": "Gaming PC",
+    "for": "High-End Gaming"
+  },
+  {
+    "id": 8,
+    "img": "Img/gaming-pc/gamingpc-8.jpg",
+    "h5": "Asus ROG GT20 - Intel Core i9 / RTX 4090",
+    "price": "₪ 16,490",
+    "name": "rog_gt20_i9_4090",
+    "brand": "ASUS",
+    "type": "Gaming PC",
+    "for": "High-End Gaming"
+  }
+],
+
+
+
+
+
+"laptops": [
+  {
+    "id": 1,
+    "img": "Img/notebook/laptop1.jpg",
+    "h5": "Dell Vostro 15 3520 i5-1235U 8GB 256GB SSD 15.6\" FHD Windows 11 Pro",
+    "price": "₪ 2,899",
+    "name": "dell_vostro_15_3520_i5_1235u",
+    "brand": "Dell",
+    "type": "Laptop",
+    "for": "Work"
+  },
+  {
+    "id": 2,
+    "img": "Img/notebook/laptop2.jpg",
+    "h5": "Apple MacBook Pro 16\" M3 Pro Chip 12C CPU 18C GPU 18GB RAM 512GB SSD Space Black",
+    "price": "₪ 12,899",
+    "name": "macbook_pro_16_m3pro",
+    "brand": "Apple",
+    "type": "Laptop",
+    "for": "Pro"
+  },
+  {
+    "id": 3,
+    "img": "Img/notebook/laptop3.jpg",
+    "h5": "Lenovo Legion Pro 7i 16\" i9-13900HX 32GB 1TB SSD RTX 4090",
+    "price": "₪ 17,090",
+    "name": "lenovo_legion_pro_7i_i9_13900hx_4090",
+    "brand": "Lenovo",
+    "type": "Laptop",
+    "for": "Gaming"
+  },
+  {
+    "id": 4,
+    "img": "Img/notebook/laptop4.jpg",
+    "h5": "Asus ROG Zephyrus G16 i9-13900H 32GB 1TB SSD RTX 4070",
+    "price": "₪ 12,497",
+    "name": "asus_rog_zephyrus_g16_i9_13900h_4070",
+    "brand": "ASUS",
+    "type": "Laptop",
+    "for": "Gaming"
+  },
+  {
+    "id": 5,
+    "img": "Img/notebook/laptop5.jpg",
+    "h5": "MSI Stealth 16 i9-13900H 32GB 1TB SSD RTX 4080",
+    "price": "₪ 15,790",
+    "name": "msi_stealth_16_i9_13900h_4080",
+    "brand": "MSI",
+    "type": "Laptop",
+    "for": "Gaming"
+  },
+  {
+    "id": 6,
+    "img": "Img/notebook/laptop6.jpg",
+    "h5": "Lenovo Legion Pro 7 16\" i9-13900HX 32GB 1TB SSD RTX 4080",
+    "price": "₪ 12,499",
+    "name": "lenovo_legion_pro_7_i9_13900hx_4080",
+    "brand": "Lenovo",
+    "type": "Laptop",
+    "for": "Gaming"
+  },
+  {
+    "id": 7,
+    "img": "Img/notebook/laptop7.jpg",
+    "h5": "Acer Predator Helios 18 i9-13900HX 32GB 2TB SSD RTX 4090",
+    "price": "₪ 16,197",
+    "name": "acer_predator_helios_18_i9_13900hx_4090",
+    "brand": "Acer",
+    "type": "Laptop",
+    "for": "Gaming"
+  },
+  {
+    "id": 8,
+    "img": "Img/notebook/laptop8.jpg",
+    "h5": "Dell XPS 15 9530 i9-13900H 32GB 1TB SSD RTX 4070 OLED 3.5K Touch",
+    "price": "₪ 16,390",
+    "name": "dell_xps_15_9530_i9_13900h_4070",
+    "brand": "Dell",
+    "type": "Laptop",
+    "for": "Pro"
+  }
+],
+
+
+"monitors": [
+  {
+    "id": 1,
+    "img": "Img/monitors/Monitor1.jpg",
+    "h5": "Lenovo Legion Y32p-30 UHD LED IPS 31.1\" FreeSync",
+    "price": "₪ 2,349",
+    "name": "lenovo_legion_y32p_30",
+    "brand": "Lenovo",
+    "type": "Monitor",
+    "for": "Gaming"
+  },
+  {
+    "id": 2,
+    "img": "Img/monitors/Monitor2.jpg",
+    "h5": "ASUS ProArt PA27SYC 4K UHD IPS LED 27\"",
+    "price": "₪ 2,315",
+    "name": "asus_proart_pa27syc",
+    "brand": "ASUS",
+    "type": "Monitor",
+    "for": "Design"
+  },
+  {
+    "id": 3,
+    "img": "Img/monitors/Monitor3.jpg",
+    "h5": "Asus TUF Gaming VG28UQL1A 4K UHD IPS LED 28\" FreeSync G-Sync",
+    "price": "₪ 2,795",
+    "name": "asus_tuf_vg28uql1a",
+    "brand": "ASUS",
+    "type": "Monitor",
+    "for": "Gaming"
+  },
+  {
+    "id": 4,
+    "img": "Img/monitors/Monitor4.jpg",
+    "h5": "Samsung Odyssey G7 S28BG700EP 4K UHD IPS LED 28\" FreeSync",
+    "price": "₪ 2,679",
+    "name": "samsung_odyssey_g7_s28bg700ep",
+    "brand": "Samsung",
+    "type": "Monitor",
+    "for": "Gaming"
+  },
+  {
+    "id": 5,
+    "img": "Img/monitors/Monitor5.jpg",
+    "h5": "Samsung S34C650VAM LED VA 34\" (UWQHD) FreeSync",
+    "price": "₪ 2,799",
+    "name": "samsung_s34c650vam",
+    "brand": "Samsung",
+    "type": "Monitor",
+    "for": "Work"
+  },
+  {
+    "id": 6,
+    "img": "Img/monitors/Monitor6.jpg",
+    "h5": "LG 27UQ75Q-W UHD VA HDR 144Hz USB-C 90W PD FreeSync 27\"",
+    "price": "₪ 2,230",
+    "name": "lg_27uq75q_w",
+    "brand": "LG",
+    "type": "Monitor",
+    "for": "Work"
+  },
+  {
+    "id": 7,
+    "img": "Img/monitors/Monitor7.jpg",
+    "h5": "Acer Nitro XV322QK 4K UHD IPS 31.5\"",
+    "price": "₪ 2,230",
+    "name": "acer_nitro_xv322qk",
+    "brand": "Acer",
+    "type": "Monitor",
+    "for": "Gaming"
+  },
+  {
+    "id": 8,
+    "img": "Img/monitors/Monitor8.jpg",
+    "h5": "Dell Alienware AW2725DF QHD QD-OLED 27\" 360Hz",
+    "price": "₪ 2,580",
+    "name": "alienware_aw2725df",
+    "brand": "Dell",
+    "type": "Monitor",
+    "for": "Gaming"
+  }
+],
+
+
+
+
+
+
+"headphones": [
+  {
+    "id": 1,
+    "img": "Img/headphones/headphone1.jpg",
+    "h5": "Meze Audio 99 Classics Over Ear",
+    "price": "₪ 1,390",
+    "name": "meze_audio_99_classics",
+    "brand": "Meze Audio",
+    "type": "Headphones",
+    "for": "Audio"
+  },
+  {
+    "id": 2,
+    "img": "Img/headphones/headphone2.jpg",
+    "h5": "Sony WH-1000XM4B ANC Over-Ear",
+    "price": "₪ 1,189",
+    "name": "sony_wh_1000xm4b",
+    "brand": "Sony",
+    "type": "Headphones",
+    "for": "Audio"
+  },
+  {
+    "id": 3,
+    "img": "Img/headphones/headphone3.jpg",
+    "h5": "Corsair VIRTUOSO RGB WIRELESS XT High Fidelity",
+    "price": "₪ 1,193",
+    "name": "corsair_virtuoso_rgb_wireless_xt",
+    "brand": "Corsair",
+    "type": "Headphones",
+    "for": "Gaming"
+  },
+  {
+    "id": 4,
+    "img": "Img/headphones/headphone4.jpg",
+    "h5": "FiiO FT3 Wired Over-Ear",
+    "price": "₪ 1,395",
+    "name": "fiio_ft3",
+    "brand": "FiiO",
+    "type": "Headphones",
+    "for": "Audio"
+  },
+  {
+    "id": 5,
+    "img": "Img/headphones/headphone5.jpg",
+    "h5": "Cambridge Audio Melomania P100",
+    "price": "₪ 1,450",
+    "name": "cambridge_audio_melomania_p100_black",
+    "brand": "Cambridge Audio",
+    "type": "Headphones",
+    "for": "Audio"
+  },
+  {
+    "id": 6,
+    "img": "Img/headphones/headphone6.jpg",
+    "h5": "Cambridge Audio Melomania P100",
+    "price": "₪ 1,126",
+    "name": "cambridge_audio_melomania_p100_white",
+    "brand": "Cambridge Audio",
+    "type": "Headphones",
+    "for": "Audio"
+  },
+  {
+    "id": 7,
+    "img": "Img/headphones/headphone7.jpg",
+    "h5": "Corsair VIRTUOSO MAX",
+    "price": "₪ 1,449",
+    "name": "corsair_virtuoso_max_black",
+    "brand": "Corsair",
+    "type": "Headphones",
+    "for": "Gaming"
+  },
+  {
+    "id": 8,
+    "img": "Img/headphones/headphone8.jpg",
+    "h5": "Corsair VIRTUOSO MAX",
+    "price": "₪ 1,449",
+    "name": "corsair_virtuoso_max_grey",
+    "brand": "Corsair",
+    "type": "Headphones",
+    "for": "Gaming"
+  }
+],
+
+
+
+
+
+
+"gaming_chairs": [
+  {
+    "id": 1,
+    "img": "Img/noblechair/chair1.jpg",
+    "h5": "Asus ROG Chariot Core",
+    "price": "₪ 1,750",
+    "name": "rog_chariot_core_black_red",
+    "brand": "ASUS",
+    "type": "Chair",
+    "for": "Gaming"
+  },
+  {
+    "id": 2,
+    "img": "Img/noblechair/chair2.jpg",
+    "h5": "Asus ROG Chariot Core",
+    "price": "₪ 1,750",
+    "name": "rog_chariot_core_black_blue",
+    "brand": "ASUS",
+    "type": "Chair",
+    "for": "Gaming"
+  },
+  {
+    "id": 3,
+    "img": "Img/noblechair/chair3.jpg",
+    "h5": "Asus ROG Chariot Core",
+    "price": "₪ 1,750",
+    "name": "rog_chariot_core_white_grey",
+    "brand": "ASUS",
+    "type": "Chair",
+    "for": "Gaming"
+  },
+  {
+    "id": 4,
+    "img": "Img/noblechair/chair4.jpg",
+    "h5": "Asus ROG Chariot Core",
+    "price": "₪ 1,750",
+    "name": "rog_chariot_core_black_blue_alt",
+    "brand": "ASUS",
+    "type": "Chair",
+    "for": "Gaming"
+  },
+  {
+    "id": 5,
+    "img": "Img/noblechair/chair5.jpg",
+    "h5": "Asus ROG Chariot Core",
+    "price": "₪ 2,249",
+    "name": "rog_chariot_core_black",
+    "brand": "ASUS",
+    "type": "Chair",
+    "for": "Gaming"
+  },
+  {
+    "id": 6,
+    "img": "Img/noblechair/chair6.jpg",
+    "h5": "Noblechairs Hero",
+    "price": "₪ 2,249",
+    "name": "noblechairs_hero_white",
+    "brand": "Noblechairs",
+    "type": "Chair",
+    "for": "Gaming"
+  },
+  {
+    "id": 7,
+    "img": "Img/noblechair/chair7.jpg",
+    "h5": "Noblechairs Hero",
+    "price": "₪ 2,249",
+    "name": "noblechairs_hero_black",
+    "brand": "Noblechairs",
+    "type": "Chair",
+    "for": "Gaming"
+  },
+  {
+    "id": 8,
+    "img": "Img/noblechair/chair8.jpg",
+    "h5": "Razer Iskur Fabric",
+    "price": "₪ 1,590",
+    "name": "razer_iskur_fabric",
+    "brand": "Razer",
+    "type": "Chair",
+    "for": "Gaming"
+  }
+]
+
+
+
+
+
+
+
+
+
+}

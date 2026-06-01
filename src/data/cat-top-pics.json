@@ -1,0 +1,91 @@
+
+[
+
+    {
+    "id": 1,
+    "productType":"כרטיס מסך",
+    "img": "Img/gpu/GpuSectionTop.jpg"
+
+    },
+
+    {
+    "id": 2,
+    "productType":"מעבדים",
+    "img": "Img/cpu/CpuSectionTop.jpg"
+
+    },
+
+    {
+    "id": 3,
+    "productType":"קירור למעבדים",
+    "img": "Img/cpu-cooling/CpuCoolingSectionTop.jpg"
+
+    },
+
+    {
+    "id": 4,
+    "productType":"מחשבי גיימינג",
+    "img": "Img/gaming-pc/gamingpcSectionTop.jpg"
+
+    },
+
+    {
+    "id": 5,
+    "productType":"אוזניות",
+    "img": "Img/headphones/headphonesSectionTop.jpg"
+
+    },
+
+    {
+    "id": 6,
+    "productType":"מסכי מחשב",
+    "img": "Img/monitors/monitorsSectionTop.jpg"
+
+    },
+
+    {
+        "id": 8,
+        "productType":"לוחות אם",
+        "img": "Img/motherboards/motherboardSectionTop.jpg"
+
+    },
+
+    {
+        "id": 9,
+        "productType":"כיסאות גיימינג",
+        "img": "Img/noblechair/noblechairSectionTop.jpg"
+
+    },
+
+    {
+        "id": 10,
+        "productType":"מחשבים ניידים",
+        "img": "Img/notebook/notebookSectionTop.jpg"
+
+    },
+        {
+        "id": 11,
+        "productType":"מחשבים משרדיים",
+        "img": "Img/office-desktop/office-desktopSectionTop.jpg"
+
+    },
+        {
+        "id": 12,
+        "productType":"ספקי כוח",
+        "img": "Img/power-supplies/powerSuppliesSectionTop.jpg"
+
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+

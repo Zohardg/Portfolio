@@ -1,0 +1,76 @@
+[
+
+  {
+    "id": 1,
+    "img": "Img/gpu/rtx4070 eagle.jpg",
+    "h5": "Gigabyte GeForce RTX 4070 SUPER EAGLE OC 12G GV-N407SEAGLE OC-12GD",
+    "price": "₪ 6,149",
+    "name": "rtx4070",
+    "brand": "Gigabyte GeForce",
+    "type": "Grahpic Card",
+    "for": "Gaming"
+
+
+  },
+
+
+
+  {
+    "id": 2,
+    "img": "Img/odyssey neo g7.jpg",
+    "h5": "Samsung 43 Odyssey Neo G7 VA 4K 144Hz 1ms",
+    "price": "₪ 3,471",
+    "name": "odyssey neo g7",
+    "brand": "samsung",
+    "type": "Screen",
+    "for": "Gaming"
+
+  },
+
+
+
+  {
+    "id": 3,
+    "img": "Img/gpu/rtx5090 32g.jpg",
+    "h5": "Gigabyte GeForce RTX 5090 WINDFORCE OC 32G GV-N5090WF3OC-32GD",
+    "price": "₪ 12,048",
+    "name": "rtx5090",
+    "brand": "Gigabyte GeForce",
+    "type": "Grahpic Card",
+    "for": "Gaming"
+
+  },
+
+
+
+  {
+    "id": 4,
+    "img": "Img/lg-ultragear.jpg",
+    "h5": "LG 45 UltraGear OLED WQHD 240Hz 0.03ms 800R",
+    "price": "₪ 6,617",
+    "name": "LG ultragear",
+    "brand": "LG",
+    "type": "Screen",
+    "for": "Gaming"
+  },
+
+
+  {
+    "id": 5,
+    "img": "Img/Corsair-Virtuoso-max-wireless.jpg",
+    "h5": "Corsair VIRTUOSO MAX WIRELESS",
+    "price": "₪ 1,164",
+    "name": "Corsair Virtuoso max wireless",
+    "brand": "Corsair",
+    "type": "Headset",
+    "for": "Gaming"
+  }
+
+]
+
+
+
+
+
+
+
